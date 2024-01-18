@@ -6,6 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 
+
 public class ManejadorFicherosTexto {
 
     private String ruta;
